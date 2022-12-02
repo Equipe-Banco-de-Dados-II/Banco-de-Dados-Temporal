@@ -9,7 +9,7 @@
 </p>
 
 
-TEMA: Aplicações de Conversão de Voz para Texto e Texto para Voz
+TEMA: Banco de Dados Temporais
 
 # Alunos
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSaless&show_icons=true&theme=radical)
