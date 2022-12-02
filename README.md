@@ -9,7 +9,7 @@
 </p>
 
 
-TEMA: Banco de Dados Temporais
+## Banco de Dados Temporais
 
 # Alunos
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSaless&show_icons=true&theme=radical)
