@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Work Sans', sans-serif;;
+}
+body{
+    background-color:dodgerblue;
+}
+.main{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: black;
+    padding: 50px;
+    border-radius: 15px;
+    width: 50%;
+}
+header{
+    font-size: 28px;
+    font-weight: 500;
+    text-align: center;
+    align-self: center;
+    justify-self: center;
+    padding-bottom: 20px;
+}
+.inputBox{
+    position: relative;
+    margin-top: 25px;
+}
+.inputUser{
+    background: none;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+    color: white;
+    font-size: 15px;
+    width: 100%;
+    letter-spacing: 2px;
+}
+.labelInput{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    pointer-events: none;
+    transition: .5s;
+}
+.inputUser:focus ~ .labelInput, .inputUser:valid ~ .labelInput{
+    top: -20px;
+    font-size: 12px;
+    color: dodgerblue;
+}
+#data_nascimento{
+    border: none;
+    padding: 8px;
+    border-radius: 10px;
+    outline: none;
+    font-size: 15px;
+}
+#submit{
+    width: 100%;
+    padding: 15px;
+    color: white;
+    background: dodgerblue;
+    font-size: 15px;
+
+    border-radius: 10px;
+    border: 2px solid white;
+    color: black;
+    cursor: pointer;
+    
+    box-shadow: 0.2rem 0.2rem white;
+    transition: 100ms ease-in;  
+}
+#submit:hover{
+    background: white;
+    box-shadow: 0vh 0vh black;
+  
+    transform: translateX(0.5vh) translateY(0.5vh);
+    transition: 100ms ease-in;
+}
+.botao-cadastrar{
+    width: 100%;
+    padding: 15px;
+    color: white;
+    background: red;
+    font-size: 15px;
+
+    border-radius: 10px;
+    border: 2px solid white;
+    color: black;
+    cursor: pointer;
+    
+    box-shadow: 0.2rem 0.2rem white;
+    transition: 100ms ease-in;  
+}
+.botao-cadastrar:hover{
+    background: white;
+    box-shadow: 0vh 0vh black;
+  
+    transform: translateX(0.5vh) translateY(0.5vh);
+    transition: 100ms ease-in;
+}
+.botao-busca{
+    width: 100%;
+    padding: 15px;
+    color: white;
+    background: green;
+    font-size: 15px;
+
+    border-radius: 10px;
+    border: 2px solid white;
+    color: black;
+    cursor: pointer;
+    
+    box-shadow: 0.2rem 0.2rem white;
+    transition: 100ms ease-in;  
+}
+.botao-busca:hover{
+    background: white;
+    box-shadow: 0vh 0vh black;
+  
+    transform: translateX(0.5vh) translateY(0.5vh);
+    transition: 100ms ease-in;
+}
+.seletor{
+    height: 100%;
+    border-radius: 5px;
+    justify-content: center;
+    padding: 0 10px;
+}
+select{
+    margin: 5px;
+    outline: none;
+    height: 100%;
+    width: 100px;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+}
+.campo{
+    display: flex;
+    margin-bottom: 30px;
+    flex-direction: column;
+}
