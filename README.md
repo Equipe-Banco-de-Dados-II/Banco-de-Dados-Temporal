@@ -14,6 +14,16 @@
 
 
 ## Banco de Dados Temporais
+...
+
+## Instalações necessárias para a execução
+- MySQL Server + MySQL Workbench (opcional)
+- XAMPP
+
+## Como executar
+- Importar as tabelas para o servidor de Banco de Dados
+- Inicializar o XAMPP
+- Acessar https://localhost no navegador
 
 # Alunos
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSaless&show_icons=true&theme=radical)
