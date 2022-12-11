@@ -8,8 +8,8 @@
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" />
   <img src="https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP" />
-  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html" />
-  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS" />
+  <img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5" />
+  <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3" />
 </p>
 
 
