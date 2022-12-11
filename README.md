@@ -22,8 +22,10 @@
 
 ## Como executar
 - Importar as tabelas para o servidor de Banco de Dados
-- Inicializar o XAMPP
+- Startar o Apache Web Server no XAMPP
 - Acessar http://localhost/ no navegador
+
+Obs.: No **Linux** o arquivo index.php precisa está armazenado na pasta opt/lampp/htdocs
 
 # Alunos
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JonathanSaless&show_icons=true&theme=radical)
