@@ -6,6 +6,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" />
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=javascript" />
+  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=PHP" />
 </p>
 
 
