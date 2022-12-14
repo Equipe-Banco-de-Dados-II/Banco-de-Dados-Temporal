@@ -30,7 +30,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Projeto BD II</title>
-    <link rel="stylesheet" href="/styles/style.css">
+    <link rel="stylesheet" href="../styles/style.css">
 </head>
 <body>
     <div class="main">
@@ -64,7 +64,7 @@
             <br><br>
 
             <label for="data_nascimento"><b>Data de Nascimento:</b></label>
-            <input type="date" name="data_nascimento" id="data_nascimento" required>
+            <input type="date" name="data_nascimento" id="data" required>
             <br><br>
 
             <div class="inputBox">
